@@ -1,0 +1,17 @@
+{
+  "name": "decel",
+  "version": "1.0.0",
+  "description": "decel app",
+  "main": "decel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Helio Mendonca",
+  "license": "ISC",
+  "devDependencies": {
+    "mqtt": "^5.10.1"
+  },
+  "pkg": {
+    "assets": "cert/**/*"
+  }
+}
